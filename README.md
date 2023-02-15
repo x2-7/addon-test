@@ -1,3 +1,5 @@
+[effect names & template](https://github.com/x2-7/addon-template)
+
 ## 命名規則
 
 ### ブランチ
