@@ -10,7 +10,7 @@
                 "value": "Javelin"
             },
             "minecraft:cooldown": {
-                "duration": 10
+                "duration": 7
             },
             "minecraft:foil": false
         }
