@@ -2,19 +2,21 @@
     "format_version": "1.16.100",
     "minecraft:item": {
         "description": {
-            "identifier": "x128:test"
+            "identifier": "x128:hog_heal"
         },
 
         "components": {
             "minecraft:display_name": {
-                "value": "hog_bento"
+                "value": "hog_heal"
             },
             "minecraft:use_duration": 0.05,
             "minecraft:cooldown": {
                 "duration": 8
             },
             "minecraft:max_stack_size": 1,
-            "minecraft:icon": "ICON_OBJECT",
+            "minecraft:icon": {
+                "texture": ""
+            },
             "minecraft:foil": false,
             "minecraft:use_animation": "drink",
             "minecraft:explodable": false,
