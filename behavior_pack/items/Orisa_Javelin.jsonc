@@ -1,0 +1,18 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "x128:orisa_javelin",
+            "category": "Items"
+        },
+        "components": {
+            "minecraft:display_name": {
+                "value": "Javelin"
+            },
+            "minecraft:cooldown": {
+                "duration": 10
+            },
+            "minecraft:foil": false
+        }
+    }
+}
