@@ -31,7 +31,7 @@
                     }, {
                         "name": "resistance",
                         "chance": 1.0,
-                        "duration": 300
+                        "duration": 160
                     }
                 ]
             }
