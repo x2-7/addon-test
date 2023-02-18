@@ -2,7 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:item": {
         "description": {
-            "identifier": "x128:test"
+            "identifier": "ow2:test"
         },
         "components": {
             "minecraft:icon": {

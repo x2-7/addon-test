@@ -2,13 +2,13 @@
     "resource_pack_name": "ow2-mc",
     "texture_data": {
         "hog_heal": {
-            "textures": "textures/x128/items/hog_heal.png"
+            "textures": "textures/ow2/items/hog_heal.png"
         },
         "kiriko_suzu": {
-            "textures": "textures/x128/items/kiriko_suzu.png"
+            "textures": "textures/ow2/items/kiriko_suzu.png"
         },
         "test": {
-            "textures": "textures/x128/items/test.png"
+            "textures": "textures/ow2/items/test.png"
         }
     }
 }
