@@ -6,6 +6,9 @@
         },
         "kiriko_suzu": {
             "textures": "textures/x128/items/kiriko_suzu.png"
+        },
+        "test": {
+            "textures": "textures/x128/items/test.png"
         }
     }
 }
