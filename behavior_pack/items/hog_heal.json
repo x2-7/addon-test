@@ -17,23 +17,27 @@
             "minecraft:icon": {
                 "texture": ""
             },
-            "minecraft:foil": false, // エンチャント効果(きらきらさせるかどうか)
+            "minecraft:foil": false, 
             "minecraft:use_animation": "drink",
             "minecraft:explodable": false,
             "minecraft:food": {
-                "nutrition": 0, // 満腹度回復
+                "nutrition": 0,
                 "effects": [
                     {
-                        "name": "regeneration", // 再生
+                        "name": "regeneration",
                         "chance": 1.0,
                         "duration": 120,
                         "amplifier": 5
                     }, {
-                        "name": "resistance", // 耐性
+                        "name": "resistance",
                         "chance": 1.0,
-                        "duration": 300
+                        "duration": 160
                     }
                 ]
+            },
+            "minecraft:projectile": {
+                "splashPotion": true,
+                "splashRange": 4
             }
         }
     }
