@@ -25,12 +25,12 @@
           "splashPotion":true,
           "splashRange":4
       },
-      "effects" : [  // 効果
+      "effects" : [  
         {
-            "name" : "speed" ,  //! エフェクト名は「template/effect-name.md」を参照
-            "chance" : 1.0 ,  // 効果が適応確率
-            "duration" : 120 ,  // 効果時間(tick), 1秒20tick
-            "amplifier" : 5  // レベル
+            "name" : "speed" ,  
+            "chance" : 1.0 ,  
+            "duration" : 120 ,  
+            "amplifier" : 5  
         }
       ]
     }
