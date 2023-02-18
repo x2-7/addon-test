@@ -21,19 +21,23 @@
             "minecraft:use_animation": "drink",
             "minecraft:explodable": false,
             "minecraft:food": {
-                "nutrition": 0, 
+                "nutrition": 0,
                 "effects": [
                     {
-                        "name": "regeneration", 
+                        "name": "regeneration",
                         "chance": 1.0,
                         "duration": 120,
                         "amplifier": 5
                     }, {
-                        "name": "resistance", 
+                        "name": "resistance",
                         "chance": 1.0,
-                        "duration": 300
+                        "duration": 160
                     }
                 ]
+            },
+            "minecraft:projectile": {
+                "splashPotion": true,
+                "splashRange": 4
             }
         }
     }
