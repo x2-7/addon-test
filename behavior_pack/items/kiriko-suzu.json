@@ -2,12 +2,11 @@
   "format_version": "1.16.100",
   "minecraft:item": {
     "description": {
-      "identifier": "x128:hog_heal",
-      "category": "Items"
+      "identifier": "x128:kiriko_suzu"
     },
     "components": {
       "minecraft:icon": {
-        "texture": "my_item"
+        "texture": "kiriko_suzu"
       },
       "minecraft:cooldown":{
           "category" : "attack",
