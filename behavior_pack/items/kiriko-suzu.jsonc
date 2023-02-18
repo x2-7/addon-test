@@ -10,11 +10,7 @@
             "minecraft:icon": {
               "texture": "my_item"
             },
-
-
-
-            
-            "minecraft:cooldown":{
+            "minecraft:cooldown": {
                 "category" : "attack",
                 "duration" : 0.2
             },
