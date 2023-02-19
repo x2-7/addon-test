@@ -26,3 +26,9 @@
 |  remove  |  ファイル削除  |
 |  fix  |  修正  |
 |  style  |  スペース、改行などの追加  |
+
+## デバッグ
+
+#### ディレクトリ
+
+###### C:\Users\{USER_NAME}\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
