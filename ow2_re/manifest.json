@@ -1,0 +1,18 @@
+﻿{
+    "format_version": 2,
+    "header": {
+        "description": "addon-test",
+        "name": "pack.name",
+        "uuid": "1b653ef6-1179-4f60-aa96-aee0a023eb06",
+        "version": [0,0,1],
+        "min_engine_version": [1,19,60]
+    },
+    "modules": [
+        {
+            "description": "ow2-test",
+            "type": "resources",
+            "uuid": "732f953d-1aef-4a36-86d2-1cbcf22f933c",
+            "version": [0,0,1]
+        }
+    ]
+}
