@@ -1,6 +1,15 @@
 {
    "resource_pack_name" : "vanilla",
    "texture_data" : {
+      "hog_heal" : {
+         "textures" : "textures/x128/hog_heal"
+      },
+      "kiriko_bell" : {
+         "textures" : "textures/x128/kiriko_bell"
+      },
+      "orisa_javelin": {
+         "textures": "textures/x128/orisa_javelin"
+      },
       "acacia_door" : {
          "textures" : "textures/items/door_acacia"
       },

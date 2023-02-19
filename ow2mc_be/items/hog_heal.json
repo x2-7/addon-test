@@ -3,7 +3,7 @@
     "minecraft:item": {
         "description": {
             "identifier": "x128:hog_heal",
-            "category": "items"
+            "category": "Items"
         },
 
         "components": {
