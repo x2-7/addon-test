@@ -35,10 +35,6 @@
                         "duration": 160
                     }
                 ]
-            },
-            "minecraft:projectile": {
-                "splashPotion": true,
-                "splashRange": 4
             }
         }
     }
