@@ -1,0 +1,45 @@
+﻿{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "x128:hog_heal",
+            "category": "items"
+        },
+
+        "components": {
+            "minecraft:display_name": {
+                "value": "hog_heal"
+            },
+            "minecraft:use_duration": 0.05,
+            "minecraft:cooldown": {
+                "duration": 8
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:icon": {
+                "texture": "hog_heal"
+            },
+            "minecraft:foil": false, 
+            "minecraft:use_animation": "drink",
+            "minecraft:explodable": false,
+            "minecraft:food": {
+                "nutrition": 0,
+                "effects": [
+                    {
+                        "name": "regeneration",
+                        "chance": 1.0,
+                        "duration": 120,
+                        "amplifier": 5
+                    }, {
+                        "name": "resistance",
+                        "chance": 1.0,
+                        "duration": 160
+                    }
+                ]
+            },
+            "minecraft:projectile": {
+                "splashPotion": true,
+                "splashRange": 4
+            }
+        }
+    }
+}
