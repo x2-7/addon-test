@@ -8,7 +8,7 @@
 
         "components": {
             "minecraft:display_name": {
-                "value": "hog_heal"
+                "value": "take a breather"
             },
             "minecraft:use_duration": 0.05,
             "minecraft:cooldown": {
