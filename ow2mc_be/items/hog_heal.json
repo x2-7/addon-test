@@ -8,7 +8,7 @@
 
         "components": {
             "minecraft:display_name": {
-                "value": "take a breather"
+                "value": "テイク・ア・ブリーザー"
             },
             "minecraft:use_duration": 0.05,
             "minecraft:cooldown": {
